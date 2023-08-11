@@ -1,2 +1,2 @@
 # Flapping-Birds
-First game on unity, Fappy Bird.
+First game on unity, Flappy Bird.
